@@ -1,0 +1,4 @@
+interface:
+  display_name: "Worktree Handoff"
+  short_description: "Prepare ticket context for worktrees"
+  default_prompt: "Use $worktree-handoff to prepare a ticket handoff for this worktree."

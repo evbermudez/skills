@@ -1,0 +1,4 @@
+interface:
+  display_name: "Caveman Commit"
+  short_description: "Draft terse messages for uncommitted diffs"
+  default_prompt: "Use $caveman-commit to draft a terse commit message for my uncommitted changes."

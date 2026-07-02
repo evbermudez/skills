@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ticket Planner"
+  short_description: "Turn rough tickets into AI-ready scope"
+  default_prompt: "Use $ticket-planner to turn this rough ticket into AI-ready implementation scope."

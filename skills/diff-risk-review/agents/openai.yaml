@@ -1,0 +1,4 @@
+interface:
+  display_name: "Diff Risk Review"
+  short_description: "Review diffs for risks and test gaps"
+  default_prompt: "Use $diff-risk-review to review this diff for regressions and missing tests."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "PR Summary Format"
+  short_description: "Draft structured PR summaries from diffs"
+  default_prompt: "Use $pr-summary-format to draft a structured PR summary from my current diff."

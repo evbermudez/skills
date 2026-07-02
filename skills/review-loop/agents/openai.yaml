@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Loop"
+  short_description: "Turn review feedback into verified fixes"
+  default_prompt: "Use $review-loop to address review feedback and summarize the fixes."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Repo Onboarding"
+  short_description: "Map a repository for practical agent work"
+  default_prompt: "Use $repo-onboarding to inspect this repo and write a practical onboarding guide."
