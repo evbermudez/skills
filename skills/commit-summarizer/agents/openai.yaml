@@ -1,0 +1,4 @@
+interface:
+  display_name: "Commit Summarizer"
+  short_description: "Summarize commits and diffs into messages"
+  default_prompt: "Use $commit-summarizer to summarize the latest commit or selected commit hashes."
