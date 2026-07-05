@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian Vault Assistant"
+  short_description: "Connect a session to an Obsidian vault knowledge base"
+  default_prompt: "Use $obsidian-vault to connect to my Obsidian vault and work as its knowledge-base assistant."

@@ -9,6 +9,7 @@ A personal skill library for reusable Codex workflows. Each folder under `skills
 | `caveman-commit` | Generates terse Conventional Commit messages from staged, unstaged, or untracked local changes. | Use when you want only a commit message for current uncommitted work. | Draft |
 | `commit-summarizer` | Summarizes explicit commit hashes, ranges, latest commits, staged changes, or uncommitted files. | Use for explaining commits, reviewing hashes, or drafting changelog-style notes. | Draft |
 | `diff-risk-review` | Reviews diffs for regressions, missing tests, and packaging risk. | Use before committing or opening a PR when you want a reviewer-style risk pass. | Draft |
+| `obsidian-vault` | Connects a session to an Obsidian vault as a knowledge-base assistant; scaffolds a vault when none exists. | Use when working with an Obsidian vault, personal knowledge base, or notes across sessions. | Draft |
 | `pr-summary-format` | Drafts structured PR descriptions from diffs and verification evidence. | Use when you need a copy-ready PR body. | Draft |
 | `repo-onboarding` | Maps an unfamiliar repository into a practical working guide. | Use when starting work in a new codebase or preparing another agent. | Draft |
 | `review-loop` | Turns code review feedback into focused fixes and verification notes. | Use when addressing reviewer comments or rerunning a review cycle. | Draft |
